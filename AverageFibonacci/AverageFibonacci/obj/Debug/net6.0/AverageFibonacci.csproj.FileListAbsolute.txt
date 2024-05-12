@@ -1,0 +1,15 @@
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\bin\Debug\net6.0\AverageFibonacci.exe
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\bin\Debug\net6.0\AverageFibonacci.deps.json
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\bin\Debug\net6.0\AverageFibonacci.runtimeconfig.json
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\bin\Debug\net6.0\AverageFibonacci.dll
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\bin\Debug\net6.0\AverageFibonacci.pdb
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\AverageFibonacci.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\AverageFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\AverageFibonacci.AssemblyInfoInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\AverageFibonacci.AssemblyInfo.cs
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\AverageFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\AverageFibonacci.dll
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\refint\AverageFibonacci.dll
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\AverageFibonacci.pdb
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\AverageFibonacci.genruntimeconfig.cache
+C:\Users\90539\Desktop\csharp-projeler\AverageFibonacci\AverageFibonacci\AverageFibonacci\obj\Debug\net6.0\ref\AverageFibonacci.dll

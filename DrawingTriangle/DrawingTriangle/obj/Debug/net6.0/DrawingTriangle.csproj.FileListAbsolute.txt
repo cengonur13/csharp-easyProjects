@@ -1,0 +1,15 @@
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\bin\Debug\net6.0\DrawingTriangle.exe
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\bin\Debug\net6.0\DrawingTriangle.deps.json
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\bin\Debug\net6.0\DrawingTriangle.runtimeconfig.json
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\bin\Debug\net6.0\DrawingTriangle.dll
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\bin\Debug\net6.0\DrawingTriangle.pdb
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\DrawingTriangle.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\DrawingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\DrawingTriangle.AssemblyInfoInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\DrawingTriangle.AssemblyInfo.cs
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\DrawingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\DrawingTriangle.dll
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\refint\DrawingTriangle.dll
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\DrawingTriangle.pdb
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\DrawingTriangle.genruntimeconfig.cache
+C:\Users\90539\Desktop\csharp-projeler\DrawingTriangle\DrawingTriangle\DrawingTriangle\obj\Debug\net6.0\ref\DrawingTriangle.dll

@@ -1,0 +1,15 @@
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\bin\Debug\net6.0\DrawingCircle.exe
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\bin\Debug\net6.0\DrawingCircle.deps.json
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\bin\Debug\net6.0\DrawingCircle.runtimeconfig.json
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\bin\Debug\net6.0\DrawingCircle.dll
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\bin\Debug\net6.0\DrawingCircle.pdb
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\DrawingCircle.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\DrawingCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\DrawingCircle.AssemblyInfoInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\DrawingCircle.AssemblyInfo.cs
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\DrawingCircle.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\DrawingCircle.dll
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\refint\DrawingCircle.dll
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\DrawingCircle.pdb
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\DrawingCircle.genruntimeconfig.cache
+C:\Users\90539\Desktop\csharp-projeler\DrawingCircle\DrawingCircle\DrawingCircle\obj\Debug\net6.0\ref\DrawingCircle.dll

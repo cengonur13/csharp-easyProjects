@@ -1,0 +1,15 @@
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\bin\Debug\net6.0\GeometricCalculations.exe
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\bin\Debug\net6.0\GeometricCalculations.deps.json
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\bin\Debug\net6.0\GeometricCalculations.runtimeconfig.json
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\bin\Debug\net6.0\GeometricCalculations.dll
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\bin\Debug\net6.0\GeometricCalculations.pdb
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\GeometricCalculations.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\GeometricCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\GeometricCalculations.AssemblyInfoInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\GeometricCalculations.AssemblyInfo.cs
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\GeometricCalculations.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\GeometricCalculations.dll
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\refint\GeometricCalculations.dll
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\GeometricCalculations.pdb
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\GeometricCalculations.genruntimeconfig.cache
+C:\Users\90539\Desktop\csharp-projeler\GeometricCalculations\GeometricCalculations\GeometricCalculations\obj\Debug\net6.0\ref\GeometricCalculations.dll

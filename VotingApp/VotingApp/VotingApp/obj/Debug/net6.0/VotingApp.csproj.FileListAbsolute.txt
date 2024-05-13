@@ -1,0 +1,15 @@
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\bin\Debug\net6.0\VotingApp.exe
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\bin\Debug\net6.0\VotingApp.deps.json
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\bin\Debug\net6.0\VotingApp.runtimeconfig.json
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\bin\Debug\net6.0\VotingApp.dll
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\bin\Debug\net6.0\VotingApp.pdb
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\VotingApp.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\VotingApp.AssemblyInfoInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\VotingApp.AssemblyInfo.cs
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\VotingApp.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\VotingApp.dll
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\refint\VotingApp.dll
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\VotingApp.pdb
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\VotingApp.genruntimeconfig.cache
+C:\Users\90539\Desktop\csharp-projeler\VotingApp\VotingApp\VotingApp\obj\Debug\net6.0\ref\VotingApp.dll

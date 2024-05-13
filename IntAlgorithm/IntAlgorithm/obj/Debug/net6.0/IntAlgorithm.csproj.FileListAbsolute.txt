@@ -1,0 +1,15 @@
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\bin\Debug\net6.0\IntAlgorithm.exe
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\bin\Debug\net6.0\IntAlgorithm.deps.json
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\bin\Debug\net6.0\IntAlgorithm.runtimeconfig.json
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\bin\Debug\net6.0\IntAlgorithm.dll
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\bin\Debug\net6.0\IntAlgorithm.pdb
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\IntAlgorithm.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\IntAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\IntAlgorithm.AssemblyInfoInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\IntAlgorithm.AssemblyInfo.cs
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\IntAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\IntAlgorithm.dll
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\refint\IntAlgorithm.dll
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\IntAlgorithm.pdb
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\IntAlgorithm.genruntimeconfig.cache
+C:\Users\90539\Desktop\csharp-projeler\IntAlgorithm\IntAlgorithm\IntAlgorithm\obj\Debug\net6.0\ref\IntAlgorithm.dll

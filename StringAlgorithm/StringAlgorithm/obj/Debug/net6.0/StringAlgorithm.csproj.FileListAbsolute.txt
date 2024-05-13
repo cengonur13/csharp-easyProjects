@@ -1,0 +1,15 @@
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\bin\Debug\net6.0\StringAlgorithm.exe
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\bin\Debug\net6.0\StringAlgorithm.deps.json
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\bin\Debug\net6.0\StringAlgorithm.runtimeconfig.json
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\bin\Debug\net6.0\StringAlgorithm.dll
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\bin\Debug\net6.0\StringAlgorithm.pdb
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\StringAlgorithm.csproj.AssemblyReference.cache
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\StringAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\StringAlgorithm.AssemblyInfoInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\StringAlgorithm.AssemblyInfo.cs
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\StringAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\StringAlgorithm.dll
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\refint\StringAlgorithm.dll
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\StringAlgorithm.pdb
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\StringAlgorithm.genruntimeconfig.cache
+C:\Users\90539\Desktop\csharp-projeler\StringAlgorithm\StringAlgorithm\StringAlgorithm\obj\Debug\net6.0\ref\StringAlgorithm.dll
